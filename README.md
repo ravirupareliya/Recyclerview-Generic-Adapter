@@ -1,7 +1,5 @@
 # Recyclerview-Generic-Adapter
 
-Example to illustrate use of Recyclerview-Generic-Adapter using DataBinding.
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/ravi_rupareliya)
 
 Simple generic adapter for RecyclerView to show data using DataBinding.
