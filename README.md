@@ -19,8 +19,10 @@ Initialize adapter :
     
 use it in acitivity :
 
-    private ActivityMainBinding activityMainBinding;
+   
     public class MainActivity extends AppCompatActivity {
+        private ActivityMainBinding activityMainBinding;
+        
         @Override
         protected void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
