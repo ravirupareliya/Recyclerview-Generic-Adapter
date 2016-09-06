@@ -30,7 +30,7 @@ use it in acitivity :
                 @Override
                 public void bindData(ItemBindingClassName binder, ModelClass model) {
                     binder.setUser(model);
-            }
+                }
             });
             
             activityMainBinding.rv.setAdapter(adapter);
